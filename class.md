@@ -1,3 +1,3 @@
 Dieter 
 Colorado Springs
-Meta FrontEnd Developer Certification
+Meta Front End Developer Certification Course
